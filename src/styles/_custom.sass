@@ -2,13 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 30%
+    right: 72%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
+    top: 57%
     right: 30%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 20%
+    right: 10%
 
 @keyframes float1
   0%
@@ -30,3 +35,39 @@
 
 figcaption
   font-weight: normal
+
+.banner-principal h1
+  color: #12263F
+.banner-principal p
+  color: #12263F
+.banner-interno__fondo
+  background-image: url(../assets/curso/portada/banner_interno.png) !important
+
+.bg-color
+  &-1
+    background-color: #D1E6FF
+
+.bg-full-width
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.3rem
+  @media screen and (max-width: $bp-max-sm)
+    padding-left: 1.5rem
+    padding-right: 1.5rem
+.bg-full-width-1
+  background-size: contain
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.3rem
+  @media screen and (max-width: $bp-max-sm)
+    padding-left: 1.5rem
+    padding-right: 1.5rem
+
+.bg-fondo
+  &-1
+    background-image: url("../assets/curso/bg1.svg") !important
+    background-position: bottom
+  &-2
+    //background-image: url("../assets/bg/bg2.svg") !important
+    background-position: bottom
