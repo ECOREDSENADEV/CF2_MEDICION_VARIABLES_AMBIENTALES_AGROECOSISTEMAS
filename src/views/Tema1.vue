@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 1
+        span.bg-color-9 1
       h1 Registros para la medición de variables ambientales
     
     p.mb-5 Diligenciar los registros en la medición de variables ambientales dentro de un agroecosistema es un proceso fundamental para recopilar datos e información clave. La elaboración de los formatos o planillas debe estar alineada con lo estipulado en el plan de muestreo, considerando aspectos como la frecuencia de medición, los lugares, equipos utilizados, tipo de muestras y unidades de medición, entre otros. Es importante diferenciar dos elementos:
