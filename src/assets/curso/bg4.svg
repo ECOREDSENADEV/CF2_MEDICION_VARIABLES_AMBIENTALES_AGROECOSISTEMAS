@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1326.49" height="369.371" viewBox="0 0 1326.49 369.371">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8dc0ff"/>
+      <stop offset="1" stop-color="#8dc0ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8dc0ff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#8dc0ff"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_1174753" data-name="Grupo 1174753" transform="translate(0)">
+    <path id="Unión_5" data-name="Unión 5" d="M.488,360.138V193.83L0,193.321V55.788C56.853,12.262,174.081-1.477,283.057.123c87.128,1.279,169.8,13.5,244.03,30.721,65.65,15.23,125.658,34.4,193.529,47.965,167.611,33.5,355.519,3.222,522.663-30.413q40.861-8.222,82.026-16.222V173.745h1.183V360.138Z" transform="translate(0.003 0)" opacity="0.29" fill="url(#linear-gradient)"/>
+    <path id="Unión_6" data-name="Unión 6" d="M1048.261,301.973c-107.423,0-211.762-17.988-313.889-36.651-100.18-18.308-212.8-34.788-313.263-16.553-40.68,7.382-76.646,17.817-115.994,26.107-44.492,9.373-94.041,16.025-146.262,16.721C99.82,292.383,36.746,286.349,0,267.691V0H1326.488V180.462H1325.3v62.1c-33.7,28.886-112.3,47.736-192.873,55.481-28.276,2.718-56.315,3.926-84.159,3.927Z" transform="translate(1326.488 369.371) rotate(180)" opacity="0.24" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>
